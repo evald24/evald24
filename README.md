@@ -12,7 +12,7 @@
 </p>
 
 
-## My open source projects
+## My projects
 
 <p align="center">
   <a href="https://github.com/evald24/vscode-extension-profiles">
@@ -21,6 +21,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" alt="evald24/go-gen-config" src="https://github-readme-stats.vercel.app/api/pin/?username=evald24&repo=go-gen-config&show_owner=1&bg_color=001A34&text_color=c8d1d9&title_color=fff&border_color=0069FF&icon_color=06CA99&border_radius=10" />
   </a>
+</p>
+
+<p align="center">
+  <img width="100%" alt="Contribution graph" src="https://github.com/evald24/evald24/blob/gen/github-contribution-grid-snake.svg"/>
 </p>
 
 <hr/>
