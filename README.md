@@ -21,7 +21,7 @@
   <a href="https://github.com/evald24/vscode-extension-profiles">
     <img width="49%" align="center" alt="evald24/vscode-extension-profiles" src="https://github-readme-stats.vercel.app/api/pin/?username=evald24&repo=vscode-extension-profiles&show_owner=1&bg_color=001A34&text_color=c8d1d9&title_color=fff&border_color=0069FF&icon_color=06CA99&border_radius=10" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/evald24/go-gen-config">
     <img width="49%" align="center" alt="evald24/go-gen-config" src="https://github-readme-stats.vercel.app/api/pin/?username=evald24&repo=go-gen-config&show_owner=1&bg_color=001A34&text_color=c8d1d9&title_color=fff&border_color=0069FF&icon_color=06CA99&border_radius=10" />
   </a>
 </p>
