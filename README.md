@@ -176,10 +176,6 @@ And many other small tools that I did not mention
 
 <hr/>
 
-<p align="center">
-  <img width="100%" alt="Contribution graph" src="https://github.com/evald24/evald24/blob/gen/github-contribution-grid-snake.svg"/>
-</p>
-
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=evald24"
