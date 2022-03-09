@@ -5,19 +5,19 @@ I'm Evald Smalyakov, a full-stack web developer and software engineer. I am also
 ## My stats
 
 <p align="center">
-  <img width="48%" align="center" alt="GitHub Stats / Evald Smalyakov" src="https://github-readme-stats.vercel.app/api?username=evald24&show_icons=1&count_private=1&icon_color=06CA99&border_radius=10&hide_title=1" />
+  <img width="48%" align="center" alt="GitHub Stats / Evald Smalyakov" src="https://github-readme-stats.vercel.app/api?username=evald24&show_icons=1&count_private=1&title_color=0069FF&icon_color=0069FF&border_radius=10&hide_title=1" />
 
-  <img width="48%" align="center" alt="Wakatime Stats / Evald Smalyakov" src="https://github-readme-stats.vercel.app/api/wakatime?username=evald24&range=last_7_days&layout=compact&title_color=0069FF&icon_color=06CA99&border_radius=10&langs_count=6" />
+  <img width="48%" align="center" alt="Wakatime Stats / Evald Smalyakov" src="https://github-readme-stats.vercel.app/api/wakatime?username=evald24&range=last_7_days&layout=compact&title_color=0069FF&icon_color=0069FF&border_radius=10&langs_count=6" />
 </p>
 
 ## My personal open source projects
 
 <p align="center">
   <a href="https://github.com/evald24/vscode-extension-profiles">
-    <img width="49%" align="center" alt="evald24/vscode-extension-profiles" src="https://github-readme-stats.vercel.app/api/pin/?username=evald24&repo=vscode-extension-profiles&show_owner=1&title_color=0069FF&icon_color=06CA99&border_radius=10" />
+    <img width="49%" align="center" alt="evald24/vscode-extension-profiles" src="https://github-readme-stats.vercel.app/api/pin/?username=evald24&repo=vscode-extension-profiles&show_owner=1&title_color=0069FF&icon_color=0069FF&border_radius=10" />
   </a>
   <a href="https://github.com/evald24/go-gen-config">
-    <img width="49%" align="center" alt="evald24/go-gen-config" src="https://github-readme-stats.vercel.app/api/pin/?username=evald24&repo=go-gen-config&show_owner=1&title_color=0069FF&icon_color=06CA99&border_radius=10" />
+    <img width="49%" align="center" alt="evald24/go-gen-config" src="https://github-readme-stats.vercel.app/api/pin/?username=evald24&repo=go-gen-config&show_owner=1&title_color=0069FF&icon_color=0069FF&border_radius=10" />
   </a>
 </p>
 
