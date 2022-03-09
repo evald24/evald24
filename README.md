@@ -25,10 +25,6 @@ I'm Evald Smalyakov, a full-stack web developer and software engineer. I am also
   </a>
 </p>
 
-<p align="center">
-  <img width="100%" alt="Contribution graph" src="https://github.com/evald24/evald24/blob/gen/github-contribution-grid-snake.svg"/>
-</p>
-
 ## Skills
 
 Only what I have been working with for a long time (more than a year) and there are projects made. Darkened something that has not been used for more than a year
@@ -179,6 +175,10 @@ Only what I have been working with for a long time (more than a year) and there 
 And many other small tools that I did not mention
 
 <hr/>
+
+<p align="center">
+  <img width="100%" alt="Contribution graph" src="https://github.com/evald24/evald24/blob/gen/github-contribution-grid-snake.svg"/>
+</p>
 
 <p align="left">
   <img
