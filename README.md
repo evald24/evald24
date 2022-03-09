@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 I'm Evald Smalyakov, a full-stack web developer and software engineer. I am also an open source enthusiast and maintainer. Lately I've been more busy developing microservices and tools on Golang. I have a lot of experience in developing architectural solutions from scratch and a lot of projects.
 
@@ -21,7 +21,7 @@ I'm Evald Smalyakov, a full-stack web developer and software engineer. I am also
   </a>
 </p>
 
-## Skills
+## My Skills
 
 Only what I have been working with for a long time (more than a year) and there are projects made. Darkened something that has not been used for more than a year
 
