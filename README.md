@@ -1,15 +1,13 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## About me
-
-Hi, I'm Evald Smalyakov, a full-stack web developer and software engineer. I am also an open source enthusiast and maintainer. Lately I've been more busy developing microservices and tools on Golang. I have a lot of experience in developing architectural solutions from scratch and a lot of projects.
+I'm Evald Smalyakov, a full-stack web developer and software engineer. I am also an open source enthusiast and maintainer. Lately I've been more busy developing microservices and tools on Golang. I have a lot of experience in developing architectural solutions from scratch and a lot of projects.
 
 ## My stats
 
 <p align="center">
-  <img width="48%" align="center" alt="GitHub Stats / Evald Smalyakov" src="https://github-readme-stats.vercel.app/api?username=evald24&show_icons=1&count_private=1&bg_color=001A34&text_color=ffffff&border_color=0069FF&icon_color=06CA99&border_radius=10&hide_title=1" />
+  <img width="48%" align="center" alt="GitHub Stats / Evald Smalyakov" src="https://github-readme-stats.vercel.app/api?username=evald24&show_icons=1&count_private=1&bg_color=001A34&text_color=ffffff&border_color=0069FF&icon_color=06CA99&border_radius=10&hide_title=0" />
 
-  <img width="48%" align="center" alt="Wakatime Stats / Evald Smalyakov" src="https://github-readme-stats.vercel.app/api/wakatime?username=evald24&range=last_7_days&layout=compact&bg_color=001A34&text_color=ffffff&title_color=fff&border_color=0069FF&icon_color=06CA99&border_radius=10&langs_count=8" />
+  <img width="48%" align="center" alt="Wakatime Stats / Evald Smalyakov" src="https://github-readme-stats.vercel.app/api/wakatime?username=evald24&range=last_7_days&layout=compact&bg_color=001A34&text_color=ffffff&title_color=fff&border_color=0069FF&icon_color=06CA99&border_radius=10&langs_count=6" />
 </p>
 
 <p align="center">
